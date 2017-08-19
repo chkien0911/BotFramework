@@ -1,0 +1,40 @@
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Bot Application.dll.config
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Bot Application.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Bot Application.pdb
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Autofac.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Chronic.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.Bot.Builder.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.Bot.Connector.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Newtonsoft.Json.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\System.Net.Http.Formatting.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\System.Web.Http.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\System.Web.Http.WebHost.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Autofac.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.Bot.Builder.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.Bot.Connector.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\Newtonsoft.Json.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\System.Net.Http.Formatting.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\System.Web.Http.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\System.Web.Http.WebHost.xml
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\obj\Debug\StupidBot.csprojResolveAssemblyReference.cache
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\obj\Debug\Bot Application.dll
+D:\Vu\DECAds\05. Coding\Demo\StupidBot\StupidBot\obj\Debug\Bot Application.pdb
